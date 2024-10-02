@@ -2,3 +2,5 @@
 .aider*
 .next/
 node_modules
+
+venv/
