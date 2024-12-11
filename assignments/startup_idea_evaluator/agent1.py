@@ -16,7 +16,7 @@ class BusinessStrategist:
 
     def analyze(self, startup_idea, market_feedback=None):
         prompt = f"""As a Business Strategist, analyze this startup idea: {startup_idea}
-        
+        4
         {'Consider this Market Analyst feedback: ' + market_feedback if market_feedback else ''}
         
         Focus on:
