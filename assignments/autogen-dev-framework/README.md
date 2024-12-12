@@ -1,5 +1,13 @@
 # AutoGen Development Framework
 
+# Contributors Team Violet
+
+- [@ArturoHaber](https://github.com/ArturoHaber)
+- [@himacks](https://github.com/himacks)
+- [@maxler0y](https://github.com/maxler0y)
+- [@sabeninja](https://github.com/sabeninja)
+- [@szykozlowski](https://github.com/szykozlowski)
+
 A sophisticated multi-agent development framework built on AutoGen that automates the software development lifecycle using specialized AI agents. The framework orchestrates collaboration between planning, coding, execution, debugging, and testing agents to deliver robust software solutions.
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
